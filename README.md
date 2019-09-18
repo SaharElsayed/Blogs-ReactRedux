@@ -8,13 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `To serve the application follow this steps:`
 
 1- clone the app.<br>
-2- cd client.
-3- run (yarn install) to install all packages.<br>
-4- run (yarn start) to start serving the client app.<br>
-5- open (https://localhost:3000) and now you can see the application in your browser.<br>
-6- cd api.<br>
-7- run (npm install) to install all packages.<br>
-8- run (npm start) to start serving the server app.<br>
+2- run (yarn install) to install all packages.<br>
+3- run (yarn start) to start serving the app.<br>
+4- open (https://localhost:3000) and now you can see the application in your browser.<br>
 
 ## Available Scripts
 
